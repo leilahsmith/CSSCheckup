@@ -1,0 +1,30 @@
+<style>
+body{
+    font-size: 15 px;
+}
+body{
+    background-color: teal;
+}
+h2 {
+    color: purple
+}
+#list {
+    background-color: rgb(255, 217, 0)
+}
+#list {
+    font-family: fantasy;
+}
+p {
+    color: teal
+    font-family: sans-serif;
+}
+.random {
+    font-family: monospace;
+    border:2px solid rgb(31, 30, 30);
+    margin-top: 25px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px; 
+}
+</style>
